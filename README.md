@@ -1,0 +1,2 @@
+# wpmail
+WordPress email plugin.
